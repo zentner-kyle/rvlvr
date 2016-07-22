@@ -1,0 +1,6 @@
+[package]
+name = "rvlvr"
+version = "0.1.0"
+authors = ["Kyle Zentner <zentner.kyle@gmail.com>"]
+
+[dependencies]
